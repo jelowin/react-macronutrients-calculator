@@ -1,0 +1,8 @@
+.ListItem {
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.ListItem:hover {
+  background: lightblue;
+}
